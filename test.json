@@ -1,0 +1,64 @@
+{
+    "cities": [
+        {
+            "name": "Tbilisi",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/tbilisi.png"
+        },
+        {
+            "name": "Kutaisi ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/kutaisi.png"
+        },
+        {
+            "name": "Batumi ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/batumi.png"
+        },
+        {
+            "name": "Gudauri ",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/gudauri.png"
+        },
+        {
+            "name": "Bakuriani",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/bakuriani.png"
+        },
+        {
+            "name": "Zugdidi",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/zugdidi.png"
+        },
+        {
+            "name": "Telavi",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/telavi.png"
+        },
+        {
+            "name": "Signagi",
+            "description": "LLorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/signagi.png"
+        },
+        {
+            "name": "Mtskheta",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/mtsketa.png"
+        },
+        {
+            "name": "Mestia",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/mestia.png"
+        },
+        {
+            "name": "Kobuleti",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/kobuleti.png"
+        },
+        {
+            "name": "Borjomi",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum commodi facilis harum quae, soluta.",
+            "picture": "./src/assets/images/cities/borjomi.png"
+        }
+    ]
+}
